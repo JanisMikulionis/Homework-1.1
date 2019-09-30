@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\CS_Course\Int-to-string-Homework-Homework\NamuDarbaiNr1CS\obj\Debug\netcoreapp2.1\NamuDarbaiNr1CS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CS_Course\Int-to-string-Homework-Homework\NamuDarbaiNr1CS\obj\Debug\netcoreapp2.1\NamuDarbaiNr1CS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CS_Course\Int-to-string-Homework-Homework\NamuDarbaiNr1CS\obj\Debug\netcoreapp2.1\NamuDarbaiNr1CS.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CS_Course\Int-to-string-Homework-Homework\NamuDarbaiNr1CS\obj\Debug\netcoreapp2.1\NamuDarbaiNr1CS.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CS_Course\Int-to-string-Homework-Homework\NamuDarbaiNr1CS\bin\Debug\netcoreapp2.1\NamuDarbaiNr1CS.deps.json
+C:\Users\Admin\Desktop\CS_Course\Int-to-string-Homework-Homework\NamuDarbaiNr1CS\bin\Debug\netcoreapp2.1\NamuDarbaiNr1CS.runtimeconfig.json
+C:\Users\Admin\Desktop\CS_Course\Int-to-string-Homework-Homework\NamuDarbaiNr1CS\bin\Debug\netcoreapp2.1\NamuDarbaiNr1CS.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CS_Course\Int-to-string-Homework-Homework\NamuDarbaiNr1CS\bin\Debug\netcoreapp2.1\NamuDarbaiNr1CS.dll
+C:\Users\Admin\Desktop\CS_Course\Int-to-string-Homework-Homework\NamuDarbaiNr1CS\bin\Debug\netcoreapp2.1\NamuDarbaiNr1CS.pdb
+C:\Users\Admin\Desktop\CS_Course\Int-to-string-Homework-Homework\NamuDarbaiNr1CS\obj\Debug\netcoreapp2.1\NamuDarbaiNr1CS.dll
+C:\Users\Admin\Desktop\CS_Course\Int-to-string-Homework-Homework\NamuDarbaiNr1CS\obj\Debug\netcoreapp2.1\NamuDarbaiNr1CS.pdb
