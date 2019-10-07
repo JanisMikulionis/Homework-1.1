@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\CS_Course\\Int-to-string-Homework-Homework\\NamuDarbaiNr1CS\\NamuDarbaiNr1CS.csproj": {}
+    "C:\\Users\\Elena\\Desktop\\C# kursas\\Homework\\Homework-1.1\\NamuDarbaiNr1CS\\NamuDarbaiNr1CS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\CS_Course\\Int-to-string-Homework-Homework\\NamuDarbaiNr1CS\\NamuDarbaiNr1CS.csproj": {
+    "C:\\Users\\Elena\\Desktop\\C# kursas\\Homework\\Homework-1.1\\NamuDarbaiNr1CS\\NamuDarbaiNr1CS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\CS_Course\\Int-to-string-Homework-Homework\\NamuDarbaiNr1CS\\NamuDarbaiNr1CS.csproj",
+        "projectUniqueName": "C:\\Users\\Elena\\Desktop\\C# kursas\\Homework\\Homework-1.1\\NamuDarbaiNr1CS\\NamuDarbaiNr1CS.csproj",
         "projectName": "NamuDarbaiNr1CS",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\CS_Course\\Int-to-string-Homework-Homework\\NamuDarbaiNr1CS\\NamuDarbaiNr1CS.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\CS_Course\\Int-to-string-Homework-Homework\\NamuDarbaiNr1CS\\obj\\",
+        "projectPath": "C:\\Users\\Elena\\Desktop\\C# kursas\\Homework\\Homework-1.1\\NamuDarbaiNr1CS\\NamuDarbaiNr1CS.csproj",
+        "packagesPath": "C:\\Users\\Elena\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elena\\Desktop\\C# kursas\\Homework\\Homework-1.1\\NamuDarbaiNr1CS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Elena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
